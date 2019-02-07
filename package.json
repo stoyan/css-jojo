@@ -1,0 +1,15 @@
+{
+  "name": "css-jojo",
+  "version": "0.0.1",
+  "description": "Generate random CSS",
+  "keywords": [
+    "css",
+    "random",
+  ],
+  "author": "Stoyan <ssttoo@ymail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stoyan/css-jojo.git"
+  },
+  "main": "index"
+}
